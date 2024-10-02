@@ -1,0 +1,3 @@
+func u() {
+  print("U")
+}
